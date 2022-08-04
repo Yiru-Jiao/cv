@@ -1,5 +1,3 @@
-## Awards
-
 `2019`
 - 2018-2019 China National Scholarship for Postgraduate Student
 
