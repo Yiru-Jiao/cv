@@ -8,8 +8,8 @@ Being part of [Delft AI Labs & Talent Programme](https://www.tudelft.nl/ai/tu-de
 ## Education
 
 `Jan. 2021 - `
-__Delft University of Technology__
-\PhD candidate
+__Delft University of Technology__\
+PhD candidate
 
 
 `Sep. 2018 - Jul. 2020`
@@ -23,10 +23,13 @@ _GPA:_ 91.545 _Rank:_ 2/39
 __Northeastern University (CN)__
 \Bachelor in Industrial Engineering
 
+_GPA:_ 90.435 _Rank:_ 2/57 
+\_Thesis title:_ Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
+
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2016`
+Meritorious Winner of 2016 Mathematical Contest in Modeling, Organization 
 
 ## Publications
 
