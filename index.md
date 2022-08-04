@@ -1,6 +1,6 @@
 ---
 layout: resume
-excerpt: "Short Introduction"
+# excerpt: "Short Introduction"
 ---
 
 {% include_relative cv.md %}
