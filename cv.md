@@ -3,17 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Being part of [Delft AI Labs & Talent Programme](https://www.tudelft.nl/ai/tu-delft-ai-labs), Yiru Jiao joined in CityAI lab as a PhD candidate from Jan 15 2021. Her research interests are in interactive behaviour and collective intelligence, with a current focus on urban mobility. Her PhD works on analysing 2-dimensional vehicle interaction in urban traffic.
+Being part of [Delft AI Labs & Talent Programme](https://www.tudelft.nl/ai/tu-delft-ai-labs), Yiru Jiao joined [CityAI lab](https://www.tudelft.nl/en/ai/cityai-lab) as a PhD candidate from 15 Jan. 2021. Her research interests are in interactive behaviour and collective intelligence, with a current focus on urban mobility. Her PhD works on analysing 2-dimensional vehicle interaction in urban traffic.
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`Jan. 2021 - `
+__Delft University of Technology__
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+_PhD candidate_
+
+`Sep. 2018 - Jul. 2020`
+__Harbin Institute of Technology__
+_Master in Management Science and Engineering_
+
+`Sep. 2014 - Jun. 2018`
+__Northeastern University (CN)__
+_Bachelor in Industrial Engineering_
 
 ## Awards
 
