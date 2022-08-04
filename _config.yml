@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Yiru Jiao's Website
+title: Yiru Jiao | Seek Truth from Facts
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -12,7 +12,7 @@ owner:
   email: y.jiao-1@tudelft.nl
   # Do not include the @ symbol in your Twitter username
   twitter: 
-  linkedin: Yiru(艺茹) Jiao(焦)#username
+  linkedin: yiru-%E8%89%BA%E8%8C%B9-jiao-%E7%84%A6#username
   github: Yiru-Jiao
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
