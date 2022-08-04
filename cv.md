@@ -20,15 +20,22 @@ _Thesis:_ An active opinion dynamics model: modelling group opinion evolution un
 
 `Sep. 2014 - Jun. 2018`
 __Northeastern University (CN)__\
-Bachelor in Industrial Engineering
-
-_GPA:_ 90.435 _Rank:_ 2/57 
-\_Thesis title:_ Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
+Bachelor in Industrial Engineering\
+_GPA:_ 90.435, _Rank:_ 2/57\
+_Thesis:_ Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
 
 ## Awards
 
 `2016`
-Meritorious Winner of 2016 Mathematical Contest in Modeling, Organization 
+Meritorious Winner of 2016 Mathematical Contest in Modeling\
+2015-2016 China National Scholarship
+
+`2017`
+Meritorious Winner of 2017 Interdisciplinary Contest in Modeling\
+2016-2017 China National Scholarship
+
+`2019`
+2018-2019 China National Scholarship for Postgraduate Student
 
 ## Publications
 
