@@ -9,16 +9,19 @@ Being part of [Delft AI Labs & Talent Programme](https://www.tudelft.nl/ai/tu-de
 
 `Jan. 2021 - `
 __Delft University of Technology__
+\PhD candidate
 
-_PhD candidate_
 
 `Sep. 2018 - Jul. 2020`
 __Harbin Institute of Technology__
-_Master in Management Science and Engineering_
+\Master in Management Science and Engineering
+
+_GPA:_ 91.545 _Rank:_ 2/39
+\_Thesis title:_ An active opinion dynamics model: modelling group opinion evolution under active interactions (Excellent master thesis of Harbin Institute of Technology)
 
 `Sep. 2014 - Jun. 2018`
 __Northeastern University (CN)__
-_Bachelor in Industrial Engineering_
+\Bachelor in Industrial Engineering
 
 ## Awards
 
