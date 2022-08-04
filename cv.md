@@ -15,27 +15,27 @@ PhD candidate
 `Sep. 2018 - Jul. 2020`
 __Harbin Institute of Technology__\
 Master in Management Science and Engineering\
-_GPA:_ 91.545, _Rank:_ 2/39\
-_Thesis:_ An active opinion dynamics model: modelling group opinion evolution under active interactions (Excellent master thesis of Harbin Institute of Technology)
+* _GPA:_ 91.545, _Rank:_ 2/39\
+* _Thesis:_ An active opinion dynamics model: modelling group opinion evolution under active interactions (Excellent master thesis of Harbin Institute of Technology)
 
 `Sep. 2014 - Jun. 2018`
 __Northeastern University (CN)__\
 Bachelor in Industrial Engineering\
-_GPA:_ 90.435, _Rank:_ 2/57\
-_Thesis:_ Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
+  _GPA:_ 90.435, _Rank:_ 2/57\
+  _Thesis:_ Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
 
 ## Awards
 
 `2016`
-Meritorious Winner of 2016 Mathematical Contest in Modeling\
-2015-2016 China National Scholarship
+- Meritorious Winner of 2016 Mathematical Contest in Modeling\
+- 2015-2016 China National Scholarship
 
 `2017`
-Meritorious Winner of 2017 Interdisciplinary Contest in Modeling\
-2016-2017 China National Scholarship
+- Meritorious Winner of 2017 Interdisciplinary Contest in Modeling\
+- 2016-2017 China National Scholarship
 
 `2019`
-2018-2019 China National Scholarship for Postgraduate Student
+- 2018-2019 China National Scholarship for Postgraduate Student
 
 ## Publications
 
