@@ -1,19 +1,19 @@
 # Site wide configuration
 
-title: Academic Website of Ted Laderas
+title: Yiru Jiao's Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Yiru Jiao
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "PhD candidate at CityAI lab & DiTT lab, TU Delft"
+  email: y.jiao-1@tudelft.nl
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  twitter: 
+  linkedin: Yiru(艺茹) Jiao(焦)#username
+  github: Yiru-Jiao
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
@@ -21,7 +21,7 @@ owner:
     plus: #username
     analytics:
     verify:
-    scholar: #id
+    scholar: DeM7ng8AAAAJ#id
   facebook: #username
   instagram: #username
   bing-verify:
