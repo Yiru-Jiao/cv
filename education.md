@@ -7,7 +7,7 @@ PhD candidate in the department of Transport & Planning
 __Harbin Institute of Technology__\
 Master in Management Science and Engineering\
 GPA: 91.545, Rank: 2/39\
-Thesis: An active opinion dynamics model: modelling group opinion evolution under active interactions (Excellent master thesis of Harbin Institute of Technology)
+Thesis: An active opinion dynamics model: modelling group opinion evolution under active interactions (Outstanding master thesis of Harbin Institute of Technology)
 
 `Sep. 2014 - Jun. 2018`
 __Northeastern University (CN)__\
