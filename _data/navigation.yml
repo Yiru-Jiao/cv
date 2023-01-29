@@ -2,9 +2,6 @@
 - title: Home
   url: /
 
-- title: Education
-  url: /education/
-
 - title: Publications
   url: /publications/
 
@@ -13,3 +10,6 @@
 
 - title: Awards
   url: /awards/
+
+- title: Education
+  url: /education/
