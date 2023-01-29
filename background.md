@@ -1,4 +1,4 @@
-## Education
+## Background
 
 `Sep. 2022 - Jan. 2023`
 CIE5050 Additional Master Thesis, supervision: Analysis on the heterogeneity of proximity resistance in car following
