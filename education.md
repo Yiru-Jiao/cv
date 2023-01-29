@@ -7,7 +7,7 @@ CIE5050 Additional Master Thesis, supervision: Analysis on the heterogeneity of 
 MUDE (Modelling, Uncertainty and Data for Engineers) poster and coding session, teaching assistance
 
 `Apr. 2022 - Jul. 2022`
-CIE4845 Emerging Topics for Transport \& Planning, supervision
+CIE4845 Emerging Topics for Transport & Planning, supervision
 
 `Sep. 2021 - Dec. 2021`
 CS4320TU Applied AI project, supervision: Detecting traffic jam with urban trajectory data
