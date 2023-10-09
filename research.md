@@ -1,1 +1,1 @@
-click this link https://www.cityai-lab.nl/vehicle-coordination/
+Read more about my studies at our lab site https://www.cityai-lab.nl/vehicle-coordination/ 
