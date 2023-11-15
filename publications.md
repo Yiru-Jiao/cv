@@ -1,7 +1,7 @@
 ## Publications
 - __Yiru Jiao__, Simeon C. Calvert, Sander van Cranenburgh, and Hans van Lint. (2023). _Inferring vehicle spacing in urban traffic from trajectory data_. Transportation Research Part C: Emerging Technologies, 155, 104289. [doi: 10.1016/j.trc.2023.104289](https://doi.org/10.1016/j.trc.2023.104289)
 - __Yiru Jiao__, Yongli Li. (2021). _An active opinion dynamics model: the gap between the voting result and group opinion_. Information Fusion, 65, 128-146. [doi: 10.1016/j.inffus.2020.08.009](https://doi.org/10.1016/j.inffus.2020.08.009)
-<!---
+{% comment %} 
 - __Yiru Jiao__, Qing-Xing Qu. (2019). _A proposal for Kansei knowledge extraction method based on natural language processing technology and online product reviews_. Computers in Industry, 108, 1-11. [doi: 10.1016/j.compind.2019.02.011](https://doi.org/10.1016/j.compind.2019.02.011)
--->
+{% endcomment %}
 - Zhongzhong Jiang, __Yiru Jiao__, Ying Sheng, Xiaohong Chen. (2017). _A novel model and its algorithms for the shortest path problem of dynamic weight-varying networks in Intelligent Transportation Systems_. Journal of Intelligent & Fuzzy Systems, 33(5), 3095-3102. [doi: 10.3233/JIFS-169361](https://doi.org/10.3233/JIFS-169361)
