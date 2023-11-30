@@ -14,5 +14,4 @@ Thesis: An active opinion dynamics model: modelling group opinion evolution unde
 __Northeastern University (CN)__\
 Bachelor in Industrial Engineering\
 GPA: 90.435, Rank: 2/57\
-
-[comment]: #Thesis: Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
+Thesis: Method and application of Kansei knowledge extraction based on Language Technology Platform and online reviews
