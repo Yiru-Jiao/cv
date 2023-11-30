@@ -1,6 +1,6 @@
 ## Education
 
-`Sep. 2023 - Oct. 2023`
+`Sep. 2023 - Nov. 2023`
 IFEEMCS520100 Fundamentals of Artificial Intelligence Programme, project supervision and grading
 
 `Sep. 2023 - Oct. 2023`
