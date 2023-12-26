@@ -1,4 +1,8 @@
-## Awards
+## Awards/grants
+
+`2022`
+- Delft AI Labs North America travel grant
+
 `2019`
 - 2018-2019 China National Scholarship for Postgraduate Student
 
