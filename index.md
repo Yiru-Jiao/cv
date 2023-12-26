@@ -9,8 +9,8 @@ Efficient and safe use of road space in cities is crucial for reducing congestio
 
 {% include_relative presentations.md %}
 
-{% include_relative awards.md %}
-
 {% include_relative education.md %}
+
+{% include_relative awards.md %}
 
 {% include_relative background.md %}
