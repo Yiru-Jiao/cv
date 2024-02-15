@@ -37,17 +37,14 @@
   text-indent: 0px;
 }
 
-.resume ul {
+.resume li ul {
   position: relative;
-  left: 33%;
-  width: 65%;
-  margin-bottom: 0.25em;
-  margin-top: 0.25em;
-}
-
-.resume li {
+  left: 0;
   margin-left: 2em;
-  margin: 0.25em;
+  width: 100%;
+  margin-bottom: 0.25em;
+  margin-top:0.25em;
+  text-align: left;
 }
 
 .resume h1, h2, h3, h4 {
