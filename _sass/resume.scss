@@ -37,13 +37,6 @@
   text-indent: 0px;
 }
 
-.resume ul {
-  position: relative;
-  left: 33%;
-  width: 65%;
-  margin-bottom: 1.5em;
-}
-
 .resume ul{
       position: relative;
       left: 0;
@@ -56,13 +49,15 @@
   position: relative;
   left: 0;
   width: 100%;
-  margin-top: 0.15em;
+  margin-top: 0.25em;
   text-align: left;
 }
+
 .resume li {
   margin-left: 2em;
-  margin: 0.5em;
+  margin: 0.25em;
 }
+
 .resume h1, h2, h3, h4 {
   font-weight: 400;
   }
