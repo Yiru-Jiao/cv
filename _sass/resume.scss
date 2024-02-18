@@ -46,6 +46,9 @@
 }
 
 .resume li {
+  position: relative;
+  left: 3%;
+  width: 95%;
   margin-left: 2em;
   margin-bottom: 0.75em;
   margin-top: 0.25em;
@@ -55,10 +58,8 @@
   position: relative;
   left: 3%;
   width: 95%;
-  margin-left: 1em;
   margin-bottom: 0.75em;
   margin-top:0.25em;
-  text-align: left;
 }
 
 .resume ul ul {
@@ -67,7 +68,6 @@
   width: 95%;
   margin-bottom: 0.75em;
   margin-top:0.25em;
-  text-align: left;
 }
 
 .resume h1, h2, h3, h4 {
