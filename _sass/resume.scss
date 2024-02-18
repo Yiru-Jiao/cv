@@ -40,38 +40,34 @@
 .resume ul {
   position: relative;
   left: 0%;
-  width: 100%;
+  width: fit-content;
   margin-bottom: 0.75em;
   margin-top: 0.25em;
-  padding-right: 1em;
 }
 
 .resume li {
   position: relative;
   left: 0%;
-  width: 100%;
+  width: fit-content;
   margin-left: 2em;
   margin-bottom: 0.75em;
   margin-top: 0.25em;
-  padding-right: 1em;
 }
 
 .resume li ul {
   position: relative;
   left: 0%;
-  width: 100%;
+  width: fit-content;
   margin-bottom: 0.75em;
   margin-top:0.25em;
-  padding-right: 2em;
 }
 
 .resume ul ul {
   position: relative;
   left: 0%;
-  width: 100%;
+  width: fit-content;
   margin-bottom: 0.75em;
   margin-top:0.25em;
-  padding-right: 2em;
 }
 
 .resume h1, h2, h3, h4 {
