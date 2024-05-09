@@ -1,6 +1,9 @@
 # Site navigation links
-- title: Home
+- title: English
   url: /
+
+- title: 中文
+  url: /CN/index_cn/
 
 - title: Publications
   url: /publications/
