@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: "Jiao, Yiru 焦艺茹"
   avatar: bio-photo.jpg
-  bio: "PhD candidate at CityAI lab & DiTT lab, TU Delft. She obtained her bachelor’s degree in Industrial Engineering from Northeastern University (CN), and master’s degree in Management Science and Technology from Harbin Institute of Technology. Her research interests are in human interactive behaviour and collective intelligence, with a current focus on driving in urban traffic."
+  bio: "PhD candidate at CityAI lab & DiTT lab, TU Delft"
   email: y.jiao-1@tudelft.nl
   # Do not include the @ symbol in your Twitter username
   twitter: 
