@@ -17,13 +17,17 @@ layout: resume
 
 <script>
   document.addEventListener("DOMContentLoaded", function() {
-    // Select the unwanted heading by its content
-    var unwantedHeading = document.querySelector("h2:contains('AnotherHeading')");
-    if (unwantedHeading) {
-      unwantedHeading.classList.add('remove-heading');
-    }
+    // Get all h2 elements
+    var headings = document.querySelectorAll("h2");
+    // Loop through all h2 elements and check their text content
+    headings.forEach(function(heading) {
+      if (heading.textContent.trim() === "Publications") {
+        heading.style.display = 'none';
+      }
+    });
   });
 </script>
+
 
 ## 学术会议报告
 - __Yiru Jiao__, Simeon C. Calvert, Hans van Lint. (2024, June 2–5, poster). _Minimising Missed and False Alarms: A Vehicle Spacing Based Approach to Conflict Detection_. 35th IEEE Intelligent Vehicles Symposium, Jeju Island, South Korea.
