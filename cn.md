@@ -8,11 +8,7 @@ layout: resume
   - 理解人类驾驶的交互行为的安全与效率考量
 
 ## 期刊文章发表
-- __Yiru Jiao__, Guopeng Li, Simeon C. Calvert, Sander van Cranenburgh, and Hans van Lint. (2024). _Beyond Behaviour Change: Investigating Alternative Explanations for Shorter Time Headways When Human Drivers Follow Automated Vehicles_. Transportation Research Part C: Emerging Technologies, 164, 104673. [doi: 10.1016/j.trc.2024.104673](https://doi.org/10.1016/j.trc.2024.104673)
-- __Yiru Jiao__, Simeon C. Calvert, Sander van Cranenburgh, and Hans van Lint. (2023). _Inferring vehicle spacing in urban traffic from trajectory data_. Transportation Research Part C: Emerging Technologies, 155, 104289. [doi: 10.1016/j.trc.2023.104289](https://doi.org/10.1016/j.trc.2023.104289)
-- __Yiru Jiao__, Yongli Li. (2021). _An active opinion dynamics model: the gap between the voting result and group opinion_. Information Fusion, 65, 128-146. [doi: 10.1016/j.inffus.2020.08.009](https://doi.org/10.1016/j.inffus.2020.08.009)
-- __Yiru Jiao__, Qing-Xing Qu. (2019). _A proposal for Kansei knowledge extraction method based on natural language processing technology and online product reviews_. Computers in Industry, 108, 1-11. [doi: 10.1016/j.compind.2019.02.011](https://doi.org/10.1016/j.compind.2019.02.011)
-- Zhongzhong Jiang, __Yiru Jiao__, Ying Sheng, Xiaohong Chen. (2017). _A novel model and its algorithms for the shortest path problem of dynamic weight-varying networks in Intelligent Transportation Systems_. Journal of Intelligent & Fuzzy Systems, 33(5), 3095-3102. [doi: 10.3233/JIFS-169361](https://doi.org/10.3233/JIFS-169361)
+{% include_relative publications.md %}
 
 ## 学术会议报告
 - __Yiru Jiao__, Simeon C. Calvert, Hans van Lint. (2024, June 2–5, poster). _Minimising Missed and False Alarms: A Vehicle Spacing Based Approach to Conflict Detection_. 35th IEEE Intelligent Vehicles Symposium, Jeju Island, South Korea.
