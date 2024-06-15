@@ -7,8 +7,7 @@ layout: resume
   - 城市交通中人与人和人与自动驾驶的交互行为
   - 理解人类驾驶的交互行为的安全与效率考量
 
-## 期刊文章发表
-{% include_relative publications.md %}
+## 期刊文章发表 {% include_relative publications.md %}
 
 ## 学术会议报告
 - __Yiru Jiao__, Simeon C. Calvert, Hans van Lint. (2024, June 2–5, poster). _Minimising Missed and False Alarms: A Vehicle Spacing Based Approach to Conflict Detection_. 35th IEEE Intelligent Vehicles Symposium, Jeju Island, South Korea.
