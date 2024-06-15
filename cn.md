@@ -14,7 +14,6 @@ layout: resume
     display: none;
   }
 </style>
-
 <script>
   document.addEventListener("DOMContentLoaded", function() {
     // Get all h2 elements
@@ -28,19 +27,45 @@ layout: resume
   });
 </script>
 
-
 ## 学术会议报告
-- __Yiru Jiao__, Simeon C. Calvert, Hans van Lint. (2024, June 2–5, poster). _Minimising Missed and False Alarms: A Vehicle Spacing Based Approach to Conflict Detection_. 35th IEEE Intelligent Vehicles Symposium, Jeju Island, South Korea.
-- __Yiru Jiao__, Simeon C. Calvert, Hans van Lint. (2024, Jan 7-11, poster). _Impacts of automated vehicles on human drivers following them: A focus on distance and time headway_. Transportation Research Board 103rd Annual Meeting, Washington, D.C., United States.
-- __Yiru Jiao__, Simeon C. Calvert, Sander van Cranenburgh, Hans van Lint. (2023, Sep 24--28, oral). _Identifying Vehicle Interaction at Urban Intersections: A Comparison of Proximity Resistance, Time-to-Collision, and Post-Encroachment-Time_. 26th IEEE International Conference on Intelligent Transportation Systems ITSC 2023, Bilbao, Spain. [doi:10.1109/ITSC57777.2023.10422682](https://doi.org/10.1109/ITSC57777.2023.10422682)
-- __Yiru Jiao__, Simeon C. Calvert, Sander van Cranenburgh, Hans van Lint. (2023, Sep 6--8, oral). _Varying critical time to collision: a perspective of driver space_. hEART 2023: 11st Symposium of the European Association for Research in Transportation, Zürich, Switzerland.
-- __Yiru Jiao__, Sander van Cranenburgh, Simeon C. Calvert, Hans van Lint. (2022, June 1--3, oral). _Probabilistic representation of driver space and its inference from trajectory data_. hEART 2022: 10th Symposium of the European Association for Research in Transportation, Leuven, Belgium.
+{% include_relative presentations.md %}
+<style>
+  .remove-heading {
+    display: none;
+  }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Get all h2 elements
+    var headings = document.querySelectorAll("h2");
+    // Loop through all h2 elements and check their text content
+    headings.forEach(function(heading) {
+      if (heading.textContent.trim() === "Presentations") {
+        heading.style.display = 'none';
+      }
+    });
+  });
+</script>
 
 ## 开源数据集/软件
-- __Yiru Jiao__, (2024). _Trajectory reconstruction of crashes and near-crashes from 100-Car NDS time-series data_. Available at GitHub under MIT license, [link to use](https://github.com/Yiru-Jiao/Reconstruct100CarNDSData).
-- __Yiru Jiao__, (2023). _Fast calculation of two-dimensional Time-to-Collision_. Available at GitHub under MIT license, [link to use](https://github.com/Yiru-Jiao/Two-Dimensional-Time-To-Collision/).
-- Guopeng Li, __Yiru Jiao__, Victor L. Knoop, Simeon C. Calvert and J. W. C. Van Lint. (2023) _Large car-following data based on Lyft level-5 open dataset: Following autonomous vehicles vs. human-driven vehicles_. IEEE 26th International Conference on Intelligent Transportation Systems (ITSC), Bilbao, Spain. [Link to download](https://data.4tu.nl/datasets/1255994c-c64f-40f5-8121-9e952e308c9a).
-- Guopeng Li, __Yiru Jiao__, Simeon C. Calvert, J.W.C. van Lint. (2023) _A Conflict Resolution Dataset Derived from Argoverse-2: Analysis of the Safety and Efficiency Impacts of Autonomous Vehicles at Intersections_. Available at arXiv (in submission), [link to download](https://data.4tu.nl/datasets/8d6ee0b0-8ed5-43f3-b1c9-7665cc163e87/1).
+{% include_relative datasets.md %}
+<style>
+  .remove-heading {
+    display: none;
+  }
+</style>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Get all h2 elements
+    var headings = document.querySelectorAll("h2");
+    // Loop through all h2 elements and check their text content
+    headings.forEach(function(heading) {
+      if (heading.textContent.trim() === "Datasets/softwares") {
+        heading.style.display = 'none';
+      }
+    });
+  });
+</script>
 
 ## 教学助理/论文指导
 
