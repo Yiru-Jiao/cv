@@ -3,9 +3,9 @@ layout: resume
 ---
 作为 [<u>Delft AI Labs</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 项目的一员, 焦艺茹于2021年1月15日加入了 [<u>CityAI lab</u>](https://www.tudelft.nl/en/ai/cityai-lab) 和 [<u>DiTT lab</u>](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/research/labs/data-analytics-and-traffic-simulation-lab/dittlab-tu-delft/)攻读博士学位. 她的指导教授团队由 [<u>Dr.ir. Simeon C. Calvert</u>](https://scholar.google.nl/citations?user=pwVbHHEAAAAJ&hl=nl), [<u>Dr.ir. Sander van Cranenburgh</u>](https://scholar.google.nl/citations?user=-FNYwWYAAAAJ&hl=en&inst=6173373803492361994&oi=ao), 以及 [<u>Prof.dr.ir. Hans van Lint</u>](https://scholar.google.nl/citations?user=Q95PbrMAAAAJ&hl=en&inst=6173373803492361994&oi=sra) 组成. 2023年2月起, 她作为代尔夫特理工大学的博士生代表服务于荷兰交通、建设、与物流研究联盟[<u>(TRAIL)</u>](https://rstrail.nl). 此外，她还为ITSC和IV会议以及IEEE Transactions on ITS、Transportation Research Record、Nature Communications Engineering等期刊担任审稿人。
 
-她的研究兴趣在于人类交互行为与集体智能，当前关注点在城市交通。她的博士研究致力于：
+她的研究兴趣在于个体交互行为产生的集体模式。她的博士研究致力于：
   - 城市交通中人与人和人与自动驾驶的交互行为
-  - 理解人类驾驶的交互行为的安全与效率考量
+  - 提高交通安全，促进自动驾驶，并加深对人类交互行为的理解
 
 ## 期刊文章发表
 {% include_relative publications.md %}
