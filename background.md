@@ -1,8 +1,8 @@
 ## Background
 
-`Jan. 2021 - (expected) Dec. 2025`
+`Jan. 2021 - (expected) Nov. 2025`
 __Delft University of Technology__\
-PhD candidate in the department of Transport & Planning
+PhD candidate in the Department of Transport & Planning
 
 `Sep. 2018 - Jul. 2020`
 __Harbin Institute of Technology__\
