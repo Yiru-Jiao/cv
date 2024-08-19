@@ -1,4 +1,9 @@
 ## Education
+`Sep. 2023- Jun. 2024`
+Master thesis supervision, "Impacts of micro-scale built environment features on residential location choice: a computer vision-aided assessment"
+
+`Apr. 2024 - Jun. 2024`
+CTB3000 Bachelor eindwerk, advisor on "Human factors in roundabout design in urban areas"
 
 `Sep. 2023 - Nov. 2023`
 IFEEMCS520100 Fundamentals of Artificial Intelligence Programme, project supervision and grading
