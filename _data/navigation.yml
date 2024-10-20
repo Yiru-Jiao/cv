@@ -3,19 +3,19 @@
   url: /
 
 - title: 中文
-  url: /cn/
+  url: /sections/cn/
 
 - title: Publications
-  url: /publications/
+  url: /sections/publications/
 
 - title: Presentations
-  url: /presentations/
+  url: /sections/presentations/
 
 - title: Datasets
-  url: /datasets/  
+  url: /sections/datasets/  
 
 - title: Awards
-  url: /awards/
+  url: /sections/awards/
 
 - title: Education
-  url: /education/
+  url: /sections/education/

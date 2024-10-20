@@ -24,4 +24,4 @@ This digital CV is very bibliometrically formed for HR's or quantitative eyes. Y
 
 {% include_relative /sections/awards.md %}
 
-{% include sections/background.md %}
+{% include_relative /sections/background.md %}
