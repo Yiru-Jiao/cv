@@ -12,16 +12,16 @@ I'm a passionate researcher working in autonomous road safety, methodologically 
 
 This digital CV is very bibliometrically formed for HR's or quantitative eyes. You are invited to visit my [GitHub page](https://github.com/Yiru-Jiao) and use a qualitative view to look at me and my research. I believe all researchers in academia would ask the same. We work for a better world, not for producing publications.
 
-{% include_relative sections/publications.md %}
+{% include_relative /sections/publications.md %}
 
-{% include_relative sections/presentations.md %}
+{% include_relative /sections/presentations.md %}
 
-{% include_relative sections/datasets.md %}
+{% include_relative /sections/datasets.md %}
 
-{% include_relative sections/education.md %}
+{% include_relative /sections/education.md %}
 
-{% include_relative sections/services.md %}
+{% include_relative /sections/services.md %}
 
-{% include_relative sections/awards.md %}
+{% include_relative /sections/awards.md %}
 
-{% include_relative sections/background.md %}
+{% include sections/background.md %}

@@ -11,7 +11,7 @@ layout: resume
 
 
 ## 期刊文章发表
-{% include_relative sections/publications.md %}
+{% include_relative publications.md %}
 <style>
   .remove-heading {
     display: none;
@@ -32,7 +32,7 @@ layout: resume
 
 
 ## 学术会议报告
-{% include_relative sections/presentations.md %}
+{% include_relative presentations.md %}
 <style>
   .remove-heading {
     display: none;
@@ -53,7 +53,7 @@ layout: resume
 
 
 ## 开源数据集/软件
-{% include_relative sections/datasets.md %}
+{% include_relative datasets.md %}
 <style>
   .remove-heading {
     display: none;
