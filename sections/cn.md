@@ -75,6 +75,12 @@ layout: resume
 
 ## 教学助理/论文指导
 
+`Sep. 2023- Jun. 2024`
+硕士生毕业论文指导, 《Impacts of micro-scale built environment features on residential location choice: a computer vision-aided assessment》
+
+`2024年4月 - 2024年6月`
+CTB3000 Bachelor eindwerk （本科生毕业设计）, 指导项目《Human factors in roundabout design in urban areas》
+
 `2023年9月 - 2023年11月`
 IFEEMCS520100 Fundamentals of Artificial Intelligence Programme, 项目指导和评分
 
@@ -98,8 +104,9 @@ CS4320TU Applied AI project, 项目指导和评分: Detecting traffic jam with u
 
 
 ## 学术服务
-`2023年月 - 2024年11月`
-荷兰交通、设施、与物流研究协会（Dutch [<u>Research School for Transport, Infrastructure and Logistics (TRAIL)</u>](https://rstrail.nl)）代尔夫特理工大学博士生代表。协助举办TRAIL Congress 2024。
+
+__学术协会__
+- `2023年月 - 2024年11月` 荷兰交通、设施、与物流研究协会（Dutch [<u>Research School for Transport, Infrastructure and Logistics (TRAIL)</u>](https://rstrail.nl)）代尔夫特理工大学博士生代表。协助举办TRAIL Congress 2024。
 
 __会议审稿人__
 - IEEE ITSC
@@ -132,7 +139,8 @@ __期刊审稿人__
 
 `2021年1月 - 2025年12月（按计划）`
 __代尔夫特理工大学（Delft University of Technology）__\
-运输与规划系（Transport & Planning）博士生，由[<u>Delft AI Labs Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs)全额资助，为期5年。
+运输与规划系（Transport & Planning）博士生\
+由 [<u>Delft AI Labs Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 全额资助，为期5年
 
 `2018年9月 - 2020年7月`
 __哈尔滨工业大学__\
