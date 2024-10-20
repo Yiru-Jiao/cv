@@ -2,7 +2,7 @@
 
 `Jan. 2021 - (expected) Nov. 2025`
 __Delft University of Technology__\
-PhD candidate in the Department of Transport & Planning
+PhD candidate in the Department of Transport & Planning, fully funded by [<u>Delft AI Labs Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) for 5 years.
 
 `Sep. 2018 - Jul. 2020`
 __Harbin Institute of Technology__\
