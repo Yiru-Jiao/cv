@@ -1,4 +1,7 @@
 ## Education
+`Nov. 2024`
+TIL6022 TIL Python Programming, final group assignment grading
+
 `Sep. 2023- Jun. 2024`
 Master thesis supervision, "Impacts of micro-scale built environment features on residential location choice: a computer vision-aided assessment"
 
