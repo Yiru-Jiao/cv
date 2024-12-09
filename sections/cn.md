@@ -113,6 +113,7 @@ __会议审稿人__
 - IEEE IV
 
 __期刊审稿人__
+- Transportation Research Part C
 - IEEE Transactions on ITS
 - Transportation Research Record
 - Nature Communications Engineering

@@ -8,6 +8,7 @@ __Reviewer for conferences__
 - IEEE IV
 
 __Reviewer for journals__
+- Transportation Research Part C
 - IEEE Transactions on ITS
 - Transportation Research Record
 - Nature Communications Engineering
