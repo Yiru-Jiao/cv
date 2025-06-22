@@ -1,11 +1,11 @@
 ---
 layout: resume
 ---
-作为 [<u>Delft AI Labs</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 项目的一员, 焦艺茹于2021年1月15日加入了 [<u>CityAI lab</u>](https://www.tudelft.nl/en/ai/cityai-lab) 和 [<u>DiTT lab</u>](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/research/labs/data-analytics-and-traffic-simulation-lab/dittlab-tu-delft/)攻读博士学位. 她的指导教授团队由 [<u>Dr.ir. Simeon C. Calvert</u>](https://scholar.google.nl/citations?user=pwVbHHEAAAAJ&hl=nl), [<u>Dr.ir. Sander van Cranenburgh</u>](https://scholar.google.nl/citations?user=-FNYwWYAAAAJ&hl=en&inst=6173373803492361994&oi=ao), 以及 [<u>Prof.dr.ir. Hans van Lint</u>](https://scholar.google.nl/citations?user=Q95PbrMAAAAJ&hl=en&inst=6173373803492361994&oi=sra) 组成.
+作为 [<u>Delft AI Labs & Talent</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 项目的一员, 焦艺茹于2021年1月15日加入了 [<u>CityAI lab</u>](https://www.tudelft.nl/en/ai/cityai-lab) 和 [<u>DiTT lab</u>](https://www.tudelft.nl/citg/over-faculteit/afdelingen/transport-planning/research/labs/data-analytics-and-traffic-simulation-lab/dittlab-tu-delft/)攻读博士学位. 她的指导教授团队由 [<u>Dr.ir. Simeon C. Calvert</u>](https://scholar.google.nl/citations?user=pwVbHHEAAAAJ&hl=nl), [<u>Dr.ir. Sander van Cranenburgh</u>](https://scholar.google.nl/citations?user=-FNYwWYAAAAJ&hl=en&inst=6173373803492361994&oi=ao), 以及 [<u>Prof.dr.ir. Hans van Lint</u>](https://scholar.google.nl/citations?user=Q95PbrMAAAAJ&hl=en&inst=6173373803492361994&oi=sra) 组成.
 
-她的研究目标是通过自动化技术（包括但不限于自动驾驶车辆、数据赋能的交通监测和基于数据的基础设施及政策改进）来提高所有道路使用者的交通安全。她的博士研究主要涉及：
+她的研究兴趣在于利用自动化技术为道路使用者保障交通安全，包括安全自动驾驶的训练与验证、数据赋能的交通安全状态监测、和数据驱动的应急决策响应。她的博士研究主要涉及：
   - 城市交通中人类驾驶员之间以及人类驾驶员与自动驾驶车辆之间的（安全和不安全的）交互行为，
-  - 提升道路安全，促进自动驾驶，并加深对人类互动行为的理解。
+  - 全场景、可泛化、可规模化的数据驱动驾驶安全模型。
 
 这份电子简历是从文献计量学的角度为人力资源或注重定量评价的视角准备。欢迎您访问我的[GitHub页面](https://github.com/Yiru-Jiao)，从定性分析的视角了解我和我的研究；我相信所有学术研究人员都会有同样的请求——我们为创造一个更美好的世界而工作，而不是为了发表论文。
 
@@ -74,6 +74,11 @@ layout: resume
 
 
 ## 教学助理/论文指导
+`May 2025`
+CIEQ6222 Traffic Safety,  客座讲座，主题为“数据驱动的替代安全度量”
+
+`Nov. 2024`
+TIL6022 TIL Python Programming, 小组作业评分
 
 `Sep. 2023- Jun. 2024`
 硕士生毕业论文指导, 《Impacts of micro-scale built environment features on residential location choice: a computer vision-aided assessment》
@@ -114,9 +119,10 @@ __会议审稿人__
 
 __期刊审稿人__
 - Transportation Research Part C
-- IEEE Transactions on ITS
+- IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Record
 - Nature Communications Engineering
+- International Journal of Intelligent Transportation Systems Research
 
 
 ## 获奖/资助
@@ -141,7 +147,7 @@ __期刊审稿人__
 `2021年1月 - 2025年12月（按计划）`
 __代尔夫特理工大学（Delft University of Technology）__\
 运输与规划系（Transport & Planning）博士生\
-由 [<u>Delft AI Labs Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 全额资助，为期5年
+由 [<u>Delft AI Labs & Talent Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 全额资助，为期5年
 
 `2018年9月 - 2020年7月`
 __哈尔滨工业大学__\
