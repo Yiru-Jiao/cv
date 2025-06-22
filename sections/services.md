@@ -9,6 +9,7 @@ __Reviewer for conferences__
 
 __Reviewer for journals__
 - Transportation Research Part C
-- IEEE Transactions on ITS
+- IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Record
 - Nature Communications Engineering
+- International Journal of Intelligent Transportation Systems Research

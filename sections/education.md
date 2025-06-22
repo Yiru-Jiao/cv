@@ -1,4 +1,7 @@
 ## Education
+`May 2025`
+CIEQ6222 Traffic Safety, guest lecture on "Data-driven surrogate safety measures"
+
 `Nov. 2024`
 TIL6022 TIL Python Programming, final group assignment grading
 
