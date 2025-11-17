@@ -144,7 +144,7 @@ __期刊审稿人__
 
 ## 教育背景
 
-`2021年1月 - 2025年12月（按计划）`
+`2021年1月 - 2026年1月`
 __代尔夫特理工大学（Delft University of Technology）__\
 运输与规划系（Transport & Planning）博士生\
 由 [<u>Delft AI Labs & Talent Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) 全额资助，为期5年
