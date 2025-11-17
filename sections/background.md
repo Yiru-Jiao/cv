@@ -1,6 +1,6 @@
 ## Background
 
-`Jan. 2021 - (expected) Jan. 2026`
+`Jan. 2021 - Jan. 2026`
 __Delft University of Technology__\
 PhD candidate in the Department of Transport & Planning, fully funded by [<u>Delft AI Labs & Talent Programme</u>](https://www.tudelft.nl/ai/tu-delft-ai-labs) for 5 years.
 
