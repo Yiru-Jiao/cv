@@ -1,5 +1,8 @@
 ## Awards/grants
 
+`2026`
+- Cum Laude Doctorate at Delft University of Technology
+
 `2022`
 - Delft AI Labs North America travel grant
 

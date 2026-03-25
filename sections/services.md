@@ -8,8 +8,7 @@ __Reviewer for conferences__
 - IEEE IV
 
 __Reviewer for journals__
-- Transportation Research Part C
+- Transportation Research Part A, C
 - IEEE Transactions on Intelligent Transportation Systems
 - Transportation Research Record
 - Nature Communications Engineering
-- International Journal of Intelligent Transportation Systems Research

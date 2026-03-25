@@ -1,5 +1,6 @@
 ## Datasets/softwares
-- __Yiru Jiao__, Simeon C. Calvert. (2025). _Bird’s eye view trajectory reconstruction of naturalistic crashes and near-crashes in the SHRP2 NDS_. Virginia Tech Transportation Institute (VITTI). [doi: 10.15787/VTT1/EFYEJR](https://doi.org/10.15787/VTT1/EFYEJR).
+- __Yiru Jiao__, Simeon C. Calvert, Rufina Costa. (2026). _Bird’s eye view trajectory reconstruction of naturalistic crashes and near-crashes in the SHRP2 NDS (Public Version)_. Virginia Tech Transportation Institute (VTTI). [doi: 10.15787/VTT1/T7UUC1](https://doi.org/10.15787/VTT1/T7UUC1).
+- __Yiru Jiao__, Simeon C. Calvert. (2025). _Bird’s eye view trajectory reconstruction of naturalistic crashes and near-crashes in the SHRP2 NDS_. Virginia Tech Transportation Institute (VTTI). [doi: 10.15787/VTT1/EFYEJR](https://doi.org/10.15787/VTT1/EFYEJR).
 - __Yiru Jiao__. (2025). _Vectorised surrogate safety measures for traffic interactions in two-dimensional space_. Available at GitHub under MIT license, [link to use](https://github.com/Yiru-Jiao/SSMsOnPlane/).
 - __Yiru Jiao__. (2024). _Trajectory reconstruction of crashes and near-crashes from 100-Car NDS time-series data_. Available at GitHub under MIT license, [link to use](https://github.com/Yiru-Jiao/Reconstruct100CarNDSData).
 - __Yiru Jiao__. (2023). _Fast calculation of two-dimensional Time-to-Collision_. Available at GitHub under MIT license, [link to use](https://github.com/Yiru-Jiao/Two-Dimensional-Time-To-Collision/).
