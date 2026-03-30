@@ -4,7 +4,9 @@
       "Bash(for f:*)",
       "Bash(do echo:*)",
       "Read(//c/ADrive/Research/Repositories/cv/**)",
-      "Bash(done)"
+      "Bash(done)",
+      "WebFetch(domain:yiru-jiao.github.io)",
+      "Bash(curl -s https://yiru-jiao.github.io/cv/)"
     ]
   }
 }
