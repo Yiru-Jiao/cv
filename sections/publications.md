@@ -1,4 +1,5 @@
 ## Publications
+<div class="bibliography" markdown="1">
 - __Yiru Jiao__, Simeon C. Calvert, Sander van Cranenburgh, and Hans van Lint. (2025). __Learning collision risk proactively from naturalistic driving data at scale__. _Nature Machine Intelligence_, 8, 337--350. [doi: 10.1038/s42256-025-01169-6](https://doi.org/10.1038/s42256-025-01169-6)
 - __Yiru Jiao__, Sander van Cranenburgh, Simeon C. Calvert, and Hans van Lint. (2025). __Structure-preserving contrastive learning for spatial time series__. _Artificial Intelligence for Transportation_, 3--4, 100031. [doi: 10.1016/j.ait.2025.100031](https://doi.org/10.1016/j.ait.2025.100031)
 - __Yiru Jiao__, Simeon C. Calvert, Sander van Cranenburgh, and Hans van Lint. (2025). __A unified probabilistic approach to traffic conflict detection__. _Analytic Methods in Accident Research_, 45, 100369. [doi: 10.1016/j.amar.2024.100369](https://doi.org/10.1016/j.amar.2024.100369)
@@ -8,3 +9,4 @@
 - __Yiru Jiao__, Yongli Li. (2021). __An active opinion dynamics model: the gap between the voting result and group opinion__. _Information Fusion_, 65, 128-146. [doi: 10.1016/j.inffus.2020.08.009](https://doi.org/10.1016/j.inffus.2020.08.009)
 - __Yiru Jiao__, Qing-Xing Qu. (2019). __A proposal for Kansei knowledge extraction method based on natural language processing technology and online product reviews__. _Computers in Industry_, 108, 1--11. [doi: 10.1016/j.compind.2019.02.011](https://doi.org/10.1016/j.compind.2019.02.011)
 - Zhongzhong Jiang, __Yiru Jiao__, Ying Sheng, Xiaohong Chen. (2017). __A novel model and its algorithms for the shortest path problem of dynamic weight-varying networks in Intelligent Transportation Systems__. _Journal of Intelligent & Fuzzy Systems_, 33(5), 3095--3102. [doi: 10.3233/JIFS-169361](https://doi.org/10.3233/JIFS-169361)
+</div>
